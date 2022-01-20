@@ -1,5 +1,5 @@
 
-![NullByte75 github stats](https://github-readme-stats.vercel.app/api?username=HauseWasTaken&show_icons=true&theme=dracula)
+![NullByte75 github stats](https://github-readme-stats.vercel.app/api?username=HauseWasTaken&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HauseWasTaken&layout=compact)](https://github.com/ExploitHaxgithub-readme-stats)
 
