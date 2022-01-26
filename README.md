@@ -2,7 +2,7 @@
 
 ```diff 
 💀 Age: 14.
-📬 Contacts: hause#0047, hausewastaken@hozzywozzy.tk.
+📬 Contacts: hozzywozzy#0047, hausewastaken@hozzywozzy.tk.
 🖥️ Favorite Coding Lang: Python.
 👾 Wants to learn: C# C and more Python.
 💼 Experience: 1-2 years.
