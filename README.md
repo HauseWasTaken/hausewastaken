@@ -6,7 +6,7 @@
 🖥️ Favorite Coding Lang: Python.
 👾 Wants to learn: C# C and more Python.
 💼 Experience: 1-2 years.
-🌳 Hobbies: Biking(ish), Coding, Minecraft, Terraria.
+🌳 Hobbies: Biking(ish), Coding, Minecraft, Terraria, being annoying, causing suicide.
 
 📜 About me: I began coding when I was around 12-13. Fast forward to now, and I have gained more skill in python and have started making more projects. 
 
